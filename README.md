@@ -1,6 +1,9 @@
 # Beaver 🦫
 
-Fictional landing page built with the [bhvr](https://github.com/stevedylandev/bhvr) stack and [Lingo.dev](https://github.com/lingodotdev/lingo.dev) compiler for i18n
+Fictional landing page built with the [bhvr](https://github.com/stevedylandev/bhvr) stack and [Lingo.dev](https://github.com/lingodotdev/lingo.dev) compiler for i18n.
+
+> [!TIP]
+> Use the locale switcher in the top right to switch locales in real time.
 
 ## Getting Started
 

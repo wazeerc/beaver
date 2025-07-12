@@ -1,0 +1,1773 @@
+{
+  "version": 0.1,
+  "files": {
+    "App.tsx": {
+      "scopes": {
+        "6/declaration/body/3/argument/11/1/1/1/3": {
+          "type": "element",
+          "hash": "92206cd0e48b018cf34ca7bcb783aa65",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "StreamLine"
+        },
+        "6/declaration/body/3/argument/11/1/1/3/1": {
+          "type": "element",
+          "hash": "d13a452e555f7ad4bb291462f6dc8e57",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Features"
+        },
+        "6/declaration/body/3/argument/11/1/1/3/3": {
+          "type": "element",
+          "hash": "b0a05733101c639470be142fb0e582bc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Testimonials"
+        },
+        "6/declaration/body/3/argument/11/1/1/3/5": {
+          "type": "element",
+          "hash": "7bffd0574da45aadff376937c9b445b5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Pricing"
+        },
+        "6/declaration/body/3/argument/11/1/1/3/7": {
+          "type": "element",
+          "hash": "1a313e3d08f61e2319817d8c23010e9c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Contact"
+        },
+        "6/declaration/body/3/argument/11/1/1/5/1": {
+          "type": "element",
+          "hash": "cec8d8644d3778dcd60ef6e8a6bd5241",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign In"
+        },
+        "6/declaration/body/3/argument/11/1/1/5/3": {
+          "type": "element",
+          "hash": "4fab76a3fc5d5c94e3248cd279cfdd14",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Start Free Trial"
+        },
+        "6/declaration/body/3/argument/15/1/1/1/1/1": {
+          "type": "element",
+          "hash": "64c5781fbd59cbe8b669faaf3a419925",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:Sparkles></element:Sparkles> New: AI-Powered Workflows"
+        },
+        "6/declaration/body/3/argument/15/1/1/1/1/3": {
+          "type": "element",
+          "hash": "4f880dd3fd82e6fe84771f34f034ac95",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Streamline Your<element:span>Workflow</element:span>"
+        },
+        "6/declaration/body/3/argument/15/1/1/1/1/5": {
+          "type": "element",
+          "hash": "661f543e6f4d0c61be587eddf9dfc2d2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Boost productivity by 300% with our AI-powered project management platform. Automate tasks, collaborate seamlessly, and deliver projects faster than ever."
+        },
+        "6/declaration/body/3/argument/15/1/1/1/3/1": {
+          "type": "element",
+          "hash": "9f6e102a3bcf3052948c57097a05653c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Start Free Trial<element:ArrowRight></element:ArrowRight>"
+        },
+        "6/declaration/body/3/argument/15/1/1/1/3/3": {
+          "type": "element",
+          "hash": "d1be1c4cac184f547b6c0e08a9626c7d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:Play></element:Play> Watch Demo"
+        },
+        "6/declaration/body/3/argument/15/1/1/1/5/1/3": {
+          "type": "element",
+          "hash": "73bc41911af44fcff66f554af5631e04",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "14-day free trial"
+        },
+        "6/declaration/body/3/argument/15/1/1/1/5/3/3": {
+          "type": "element",
+          "hash": "2090aa4171dc0b60735069f89b592883",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "No credit card required"
+        },
+        "6/declaration/body/3/argument/15/1/1/3/3/1-alt": {
+          "type": "attribute",
+          "hash": "9681453d43d87e82833d8f1cc86e36cb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "StreamLine Dashboard"
+        },
+        "6/declaration/body/3/argument/19/1/1/1": {
+          "type": "element",
+          "hash": "2e0b8174a0461da84f5a7f647033db84",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Features"
+        },
+        "6/declaration/body/3/argument/19/1/1/3": {
+          "type": "element",
+          "hash": "b46dabde9dd6407d95d2dd97de2146e0",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Everything you need to succeed"
+        },
+        "6/declaration/body/3/argument/19/1/1/5": {
+          "type": "element",
+          "hash": "1315e9f97438ea7978def0d49925d50c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Powerful features designed to help teams collaborate better and deliver exceptional results."
+        },
+        "6/declaration/body/3/argument/19/1/3/1/1/3/1": {
+          "type": "element",
+          "hash": "7cd335901adbc74fd164f761a51a7023",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "01"
+        },
+        "6/declaration/body/3/argument/19/1/3/1/1/5": {
+          "type": "element",
+          "hash": "7b77c26b9d48bbe4a884d431acc54adc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "AI-Powered Automation"
+        },
+        "6/declaration/body/3/argument/19/1/3/1/1/7": {
+          "type": "element",
+          "hash": "2fc52c10048344fe594b9e132e889a46",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Automate repetitive tasks and workflows with our intelligent AI assistant that learns from your patterns."
+        },
+        "6/declaration/body/3/argument/19/1/3/3/1/3/1": {
+          "type": "element",
+          "hash": "91642b3be34c26763d06368d374e7307",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "02"
+        },
+        "6/declaration/body/3/argument/19/1/3/3/1/5": {
+          "type": "element",
+          "hash": "7a6b118da95dd23ecff1d0810bc268e8",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Real-time Collaboration"
+        },
+        "6/declaration/body/3/argument/19/1/3/3/1/7": {
+          "type": "element",
+          "hash": "2c867c76bbcecb818c7bab9f0bd5474a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Work together seamlessly with live editing, instant messaging, and shared workspaces for your entire team."
+        },
+        "6/declaration/body/3/argument/19/1/3/5/1/3/1": {
+          "type": "element",
+          "hash": "3a093f14eab5a4827ae0bbc58922e597",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "03"
+        },
+        "6/declaration/body/3/argument/19/1/3/5/1/5": {
+          "type": "element",
+          "hash": "327aa6ab1261880e719e58e5b2b6833a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enterprise Security"
+        },
+        "6/declaration/body/3/argument/19/1/3/5/1/7": {
+          "type": "element",
+          "hash": "23e079028bd3af51dd2a1d77104f6ae4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Bank-level security with end-to-end encryption, SSO integration, and compliance with industry standards."
+        },
+        "6/declaration/body/3/argument/19/1/3/7/1/3/1": {
+          "type": "element",
+          "hash": "cb527112e959ad59f7e9eecc7cef5c71",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "04"
+        },
+        "6/declaration/body/3/argument/19/1/3/7/1/5": {
+          "type": "element",
+          "hash": "966f8f30c70d90026d5e127b276f8886",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Advanced Analytics"
+        },
+        "6/declaration/body/3/argument/19/1/3/7/1/7": {
+          "type": "element",
+          "hash": "086490a6d495be1ae21a9dfe81f707b5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get deep insights into your team's performance with customizable dashboards and detailed reporting."
+        },
+        "6/declaration/body/3/argument/23/1/1/1": {
+          "type": "element",
+          "hash": "cb8f491c46ab9a541f5c7bf0f78d153b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "See How Our Users Landed Their Dream Jobs"
+        },
+        "6/declaration/body/3/argument/23/1/1/3": {
+          "type": "element",
+          "hash": "012909f9b0bb83622d28591108dc7914",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "See how our users turned interview prep into dream job offers"
+        },
+        "6/declaration/body/3/argument/23/1/3/1/1/1/3": {
+          "type": "element",
+          "hash": "a66c830fe4000331fea997950bbf391d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "\"The portfolio presentation practice and design process questions were exactly what I faced in real interviews. Went from junior to senior designer with a $45K salary jump. The confidence boost was priceless.\""
+        },
+        "6/declaration/body/3/argument/23/1/3/1/1/3/1/1": {
+          "type": "element",
+          "hash": "612ff003c2f0f674795ca18cb20491e3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "JM"
+        },
+        "6/declaration/body/3/argument/23/1/3/1/1/3/1/3/1": {
+          "type": "element",
+          "hash": "732fc7761a9f4ef8607af9321a9c4383",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "— Jennifer M"
+        },
+        "6/declaration/body/3/argument/23/1/3/1/1/3/1/3/3": {
+          "type": "element",
+          "hash": "a9e754cb7558b6c50f63a021220fd292",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Product Designer"
+        },
+        "6/declaration/body/3/argument/23/1/3/1/3/1/3": {
+          "type": "element",
+          "hash": "de4ac518f171cd0e7921f72aa4cd065e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "\"Practicing with InterviewPal turned my portfolio presentation from average to amazing. Landed a product design role at Spotify with zero prior experience. The behavioral interview question predictions were spot-on!\""
+        },
+        "6/declaration/body/3/argument/23/1/3/1/3/3/1/1": {
+          "type": "element",
+          "hash": "a441d37d2804440dd7958ac83bfb5811",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "LK"
+        },
+        "6/declaration/body/3/argument/23/1/3/1/3/3/1/3/1": {
+          "type": "element",
+          "hash": "39e5401977879e71171b1e50deae468e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "— Lakshmi K"
+        },
+        "6/declaration/body/3/argument/23/1/3/1/3/3/1/3/3": {
+          "type": "element",
+          "hash": "32ef6b93fd013cef4fe9f74121227188",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Product Designer at Spotify"
+        },
+        "6/declaration/body/3/argument/27/1/1/1": {
+          "type": "element",
+          "hash": "e74d7daa01f0d02953af6d202a6d8e25",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Simple, transparent pricing"
+        },
+        "6/declaration/body/3/argument/27/1/1/3": {
+          "type": "element",
+          "hash": "d52a4cc218619e8a98e0cfed1de781b7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Choose the perfect plan for your team. All plans include a 14-day free trial."
+        },
+        "6/declaration/body/3/argument/27/1/5/1/1": {
+          "type": "element",
+          "hash": "9e687411dbf1248496a4ae5dd5391679",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Weekly"
+        },
+        "6/declaration/body/3/argument/27/1/5/1/3": {
+          "type": "element",
+          "hash": "5d4f1c56f4e9e579ec9967ca68cc64ac",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Annual"
+        },
+        "6/declaration/body/3/argument/27/1/5/1/5": {
+          "type": "element",
+          "hash": "26134690790b577706932ac7394d9713",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Save 80%"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/1/1": {
+          "type": "element",
+          "hash": "0326365539c004f6088656f692602078",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Free"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/1/3": {
+          "type": "element",
+          "hash": "5d9ed18f90a6c3eff087df2ccdb73ff8",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Perfect for testing out our platform and practicing basic interview questions to see if it's the right fit for you."
+        },
+        "6/declaration/body/3/argument/27/1/7/1/1/5/1": {
+          "type": "element",
+          "hash": "c8038ce413d90cb582293b26924bc735",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "$0"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/1/5/3": {
+          "type": "element",
+          "hash": "6cb28ff89203e2eca3fdd69396dd00d6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "/month"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/3/1/1": {
+          "type": "element",
+          "hash": "7e09ebe5d39ac09b147fa88386f48c5c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "What's Included?"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/3/3/1/3": {
+          "type": "element",
+          "hash": "37bd524d5e4ecbdfc573fce0d79efe56",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get 3 credits daily"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/3/3/11/3": {
+          "type": "element",
+          "hash": "4abfa14c58ecae5c3406c3571de13928",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Limited Weekly AI insights"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/3/3/13/3": {
+          "type": "element",
+          "hash": "0adc60840e7a4a039566d60263d78a82",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Limited company bank access"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/3/3/3/3": {
+          "type": "element",
+          "hash": "4ba069982ccc15419f13c96da1ca6720",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Free Job AI access"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/3/3/5/3": {
+          "type": "element",
+          "hash": "e864ad723d8679cf70332b45f7365e92",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Free InterviewGPT access"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/3/3/7/3": {
+          "type": "element",
+          "hash": "1e1d5fdcab489673506ca228fd2cfd79",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Free Resume AI access"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/3/3/9/3": {
+          "type": "element",
+          "hash": "02265a7968a7a118e82e64d7bc0303c3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Free Cover Letter Generator access"
+        },
+        "6/declaration/body/3/argument/27/1/7/1/5/1": {
+          "type": "element",
+          "hash": "c4d64916de9e49ef0ff40eec448cebcd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get a consultation"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/1": {
+          "type": "element",
+          "hash": "702c0be2de2f4a0d696d604694d884b6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Most popular"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/3/1": {
+          "type": "element",
+          "hash": "682b3c9feab30112b4454cb5bb7974b1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Pro"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/3/3": {
+          "type": "element",
+          "hash": "13d85ec466b07600e2dd3371642c206b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Ideal for active job seekers. Access a wide range of questions and receive detailed feedback on each response to refine your performance."
+        },
+        "6/declaration/body/3/argument/27/1/7/3/3/5/1": {
+          "type": "element",
+          "hash": "d6d61c6e0827eaaae04ba2360eec0299",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "$7.99"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/3/5/3": {
+          "type": "element",
+          "hash": "8ed3ebc0edb02ed5d9008051a03aec88",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "$1.99"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/3/5/5": {
+          "type": "element",
+          "hash": "2e1b44bd7cfd3ce22078494e8d55e860",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "/week"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/5/1/1": {
+          "type": "element",
+          "hash": "7e09ebe5d39ac09b147fa88386f48c5c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "What's Included?"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/5/3/1/3": {
+          "type": "element",
+          "hash": "d59ca37c835454bcc14ad8b6a409b403",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Unlimited credits"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/5/3/11/3": {
+          "type": "element",
+          "hash": "8914b42488b164ac6a3d78ee8e25ebd2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Full Interview GPT access"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/5/3/13/3": {
+          "type": "element",
+          "hash": "d5cf46d989d5f33cf73abe81d090a7cf",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enhanced Weekly AI insights"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/5/3/3/3": {
+          "type": "element",
+          "hash": "7aae92c16d3000a56cbb3661664d2f69",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Access to all questions (20k+)"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/5/3/5/3": {
+          "type": "element",
+          "hash": "1d3ae3e59877fa38044a335d8ea2edef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Full access to company tags"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/5/3/7/3": {
+          "type": "element",
+          "hash": "9ea54d0a00d57be1c20ec3f576c87357",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Full access to company question banks"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/5/3/9/3": {
+          "type": "element",
+          "hash": "816e940576d0eadd17fea0d5615e18cc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "AI enhanced responses"
+        },
+        "6/declaration/body/3/argument/27/1/7/3/7/1": {
+          "type": "element",
+          "hash": "c4d64916de9e49ef0ff40eec448cebcd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get a consultation"
+        },
+        "6/declaration/body/3/argument/27/1/7/5/1/1": {
+          "type": "element",
+          "hash": "4d406f4ff899f0da4e3711763599a9aa",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Custom Plan"
+        },
+        "6/declaration/body/3/argument/27/1/7/5/1/3": {
+          "type": "element",
+          "hash": "48b409dc6e0bbee9e103975d3fce55ab",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Perfect for groups & teachers."
+        },
+        "6/declaration/body/3/argument/27/1/7/5/1/5/1": {
+          "type": "element",
+          "hash": "dd943e9ac09c913d0060df2ccf0c64cb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Request a quote"
+        },
+        "6/declaration/body/3/argument/27/1/7/5/3/1/1": {
+          "type": "element",
+          "hash": "7e09ebe5d39ac09b147fa88386f48c5c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "What's Included?"
+        },
+        "6/declaration/body/3/argument/27/1/7/5/3/3/1/3": {
+          "type": "element",
+          "hash": "061b46823df6eb4c597ccb47e3ce1382",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Customized interview modules"
+        },
+        "6/declaration/body/3/argument/27/1/7/5/3/3/3/3": {
+          "type": "element",
+          "hash": "f409723e817067905a9d16a8428dd9c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Customized performance tracker"
+        },
+        "6/declaration/body/3/argument/27/1/7/5/3/3/5/3": {
+          "type": "element",
+          "hash": "1a8b775d9c1839d33756901ccef0a850",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Customized response feedback"
+        },
+        "6/declaration/body/3/argument/27/1/7/5/3/3/7/3": {
+          "type": "element",
+          "hash": "6db26131e85255f85ff9b23b040b8348",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Customized AI weekly insights"
+        },
+        "6/declaration/body/3/argument/27/1/7/5/5/1": {
+          "type": "element",
+          "hash": "c4d64916de9e49ef0ff40eec448cebcd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get a consultation"
+        },
+        "6/declaration/body/3/argument/31/3/1/1": {
+          "type": "element",
+          "hash": "791fd82b46191f921136d67595ab9ea5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Real Questions From Top Hiring Companies"
+        },
+        "6/declaration/body/3/argument/31/3/1/3": {
+          "type": "element",
+          "hash": "115adf4d1a092eb6930896024898bfd1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Practice real questions top companies ask. Walk in confident, walk out prepared."
+        },
+        "6/declaration/body/3/argument/31/3/1/5/1": {
+          "type": "element",
+          "hash": "4b0764f7edf446f0437d70d9cd2fac1d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get a Demo"
+        },
+        "6/declaration/body/3/argument/35/1/1/1/1/3": {
+          "type": "element",
+          "hash": "3575aee36cff4a488047486ec6486c22",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "InterviewPal"
+        },
+        "6/declaration/body/3/argument/35/1/1/1/3": {
+          "type": "element",
+          "hash": "9eb2f0ce2af333b5873792de23a78b3e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Your interview success partner, offering personalized tools to give you the edge."
+        },
+        "6/declaration/body/3/argument/35/1/1/3/1": {
+          "type": "element",
+          "hash": "01215c12fb1cdb93bd0c84c1382bef56",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Account"
+        },
+        "6/declaration/body/3/argument/35/1/1/3/3/1/1": {
+          "type": "element",
+          "hash": "1d2f196cf5722f6a5a89793cd92fb500",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        },
+        "6/declaration/body/3/argument/35/1/1/3/3/3/1": {
+          "type": "element",
+          "hash": "3e7780e3cf098d323f18e31a5d98d766",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Badges"
+        },
+        "6/declaration/body/3/argument/35/1/1/3/3/5/1": {
+          "type": "element",
+          "hash": "e4778cb574dfc922b56a2d12dc3d3bf3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Subscription"
+        },
+        "6/declaration/body/3/argument/35/1/1/3/3/7/1": {
+          "type": "element",
+          "hash": "e84d42b0f17d6fe7403d28f571abc521",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Settings"
+        },
+        "6/declaration/body/3/argument/35/1/1/5/1": {
+          "type": "element",
+          "hash": "b6a35e9bcd15a8406576db7774a65eed",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Interview AI Tools"
+        },
+        "6/declaration/body/3/argument/35/1/1/5/3/1/1": {
+          "type": "element",
+          "hash": "16978de1d6669db6e93aca47d1369a03",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Interview GPT"
+        },
+        "6/declaration/body/3/argument/35/1/1/5/3/3/1": {
+          "type": "element",
+          "hash": "a49d2000bf1a68bef9878b9046b231c7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Resume AI"
+        },
+        "6/declaration/body/3/argument/35/1/1/5/3/5/1": {
+          "type": "element",
+          "hash": "7df8843bd03c8808260c0bd1db03ba92",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Job AI"
+        },
+        "6/declaration/body/3/argument/35/1/1/5/3/7/1": {
+          "type": "element",
+          "hash": "267362df1a6b79e65728e1c01f6be68c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Ask Away AI"
+        },
+        "6/declaration/body/3/argument/35/1/1/7/1": {
+          "type": "element",
+          "hash": "2cc6263d0c5fff4deea78de380310ddf",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Job Search Tools"
+        },
+        "6/declaration/body/3/argument/35/1/1/7/3/1/1": {
+          "type": "element",
+          "hash": "be1ed0248ad7ee06986a5402969fb331",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Resume Reviews"
+        },
+        "6/declaration/body/3/argument/35/1/1/7/3/3/1": {
+          "type": "element",
+          "hash": "72240e15682e0bb9ff3503e6adba7cd4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Cover Letter Generator"
+        },
+        "6/declaration/body/3/argument/35/1/1/7/3/5/1": {
+          "type": "element",
+          "hash": "4479d655062302a129c1765c33027519",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Cover Letter Templates"
+        },
+        "6/declaration/body/3/argument/35/1/1/7/3/7/1": {
+          "type": "element",
+          "hash": "776a41a9696ed2545ffd5bf49f0c8c73",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Request a feature"
+        },
+        "6/declaration/body/3/argument/35/1/3/1": {
+          "type": "element",
+          "hash": "c5db678ba371727d06e6aa58302e3d93",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "© <function:Date.getFullYear/> InterviewPal. All rights reserved."
+        },
+        "7/declaration/body/3/argument/11/1/1/1/3": {
+          "type": "element",
+          "hash": "92206cd0e48b018cf34ca7bcb783aa65",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "StreamLine"
+        },
+        "7/declaration/body/3/argument/11/1/1/3/1": {
+          "type": "element",
+          "hash": "d13a452e555f7ad4bb291462f6dc8e57",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Features"
+        },
+        "7/declaration/body/3/argument/11/1/1/3/3": {
+          "type": "element",
+          "hash": "b0a05733101c639470be142fb0e582bc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Testimonials"
+        },
+        "7/declaration/body/3/argument/11/1/1/3/5": {
+          "type": "element",
+          "hash": "7bffd0574da45aadff376937c9b445b5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Pricing"
+        },
+        "7/declaration/body/3/argument/11/1/1/3/7": {
+          "type": "element",
+          "hash": "1a313e3d08f61e2319817d8c23010e9c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Contact"
+        },
+        "7/declaration/body/3/argument/11/1/1/5/1": {
+          "type": "element",
+          "hash": "cec8d8644d3778dcd60ef6e8a6bd5241",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign In"
+        },
+        "7/declaration/body/3/argument/11/1/3/1/3": {
+          "type": "element",
+          "hash": "92206cd0e48b018cf34ca7bcb783aa65",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "StreamLine"
+        },
+        "7/declaration/body/3/argument/11/1/3/3/1": {
+          "type": "element",
+          "hash": "d13a452e555f7ad4bb291462f6dc8e57",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Features"
+        },
+        "7/declaration/body/3/argument/11/1/3/3/3": {
+          "type": "element",
+          "hash": "b0a05733101c639470be142fb0e582bc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Testimonials"
+        },
+        "7/declaration/body/3/argument/11/1/3/3/5": {
+          "type": "element",
+          "hash": "7bffd0574da45aadff376937c9b445b5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Pricing"
+        },
+        "7/declaration/body/3/argument/11/1/3/3/7": {
+          "type": "element",
+          "hash": "1a313e3d08f61e2319817d8c23010e9c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Contact"
+        },
+        "7/declaration/body/3/argument/11/1/3/5/1": {
+          "type": "element",
+          "hash": "cec8d8644d3778dcd60ef6e8a6bd5241",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign In"
+        },
+        "7/declaration/body/3/argument/11/1/3/5/3": {
+          "type": "element",
+          "hash": "756b643f4bdd16b232e4d79e7ec69e8f",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Start Free Trial"
+        },
+        "7/declaration/body/3/argument/11/3/1/1/3": {
+          "type": "element",
+          "hash": "92206cd0e48b018cf34ca7bcb783aa65",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "StreamLine"
+        },
+        "7/declaration/body/3/argument/11/3/1/3/1": {
+          "type": "element",
+          "hash": "d13a452e555f7ad4bb291462f6dc8e57",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Features"
+        },
+        "7/declaration/body/3/argument/11/3/1/3/3": {
+          "type": "element",
+          "hash": "b0a05733101c639470be142fb0e582bc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Testimonials"
+        },
+        "7/declaration/body/3/argument/11/3/1/3/5": {
+          "type": "element",
+          "hash": "7bffd0574da45aadff376937c9b445b5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Pricing"
+        },
+        "7/declaration/body/3/argument/11/3/1/3/7": {
+          "type": "element",
+          "hash": "1a313e3d08f61e2319817d8c23010e9c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Contact"
+        },
+        "7/declaration/body/3/argument/11/3/1/5/1": {
+          "type": "element",
+          "hash": "cec8d8644d3778dcd60ef6e8a6bd5241",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Sign In"
+        },
+        "7/declaration/body/3/argument/11/3/1/5/3": {
+          "type": "element",
+          "hash": "4fab76a3fc5d5c94e3248cd279cfdd14",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Start Free Trial"
+        },
+        "7/declaration/body/3/argument/15/1/1/1/1/1": {
+          "type": "element",
+          "hash": "64c5781fbd59cbe8b669faaf3a419925",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:Sparkles></element:Sparkles> New: AI-Powered Workflows"
+        },
+        "7/declaration/body/3/argument/15/1/1/1/1/3": {
+          "type": "element",
+          "hash": "4f880dd3fd82e6fe84771f34f034ac95",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Streamline Your<element:span>Workflow</element:span>"
+        },
+        "7/declaration/body/3/argument/15/1/1/1/1/5": {
+          "type": "element",
+          "hash": "661f543e6f4d0c61be587eddf9dfc2d2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Boost productivity by 300% with our AI-powered project management platform. Automate tasks, collaborate seamlessly, and deliver projects faster than ever."
+        },
+        "7/declaration/body/3/argument/15/1/1/1/3/1": {
+          "type": "element",
+          "hash": "9f6e102a3bcf3052948c57097a05653c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Start Free Trial<element:ArrowRight></element:ArrowRight>"
+        },
+        "7/declaration/body/3/argument/15/1/1/1/3/3": {
+          "type": "element",
+          "hash": "d1be1c4cac184f547b6c0e08a9626c7d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:Play></element:Play> Watch Demo"
+        },
+        "7/declaration/body/3/argument/15/1/1/1/5/1/3": {
+          "type": "element",
+          "hash": "73bc41911af44fcff66f554af5631e04",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "14-day free trial"
+        },
+        "7/declaration/body/3/argument/15/1/1/1/5/3/3": {
+          "type": "element",
+          "hash": "2090aa4171dc0b60735069f89b592883",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "No credit card required"
+        },
+        "7/declaration/body/3/argument/15/1/1/3/3/1-alt": {
+          "type": "attribute",
+          "hash": "9681453d43d87e82833d8f1cc86e36cb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "StreamLine Dashboard"
+        },
+        "7/declaration/body/3/argument/19/1/1/1": {
+          "type": "element",
+          "hash": "2e0b8174a0461da84f5a7f647033db84",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Features"
+        },
+        "7/declaration/body/3/argument/19/1/1/3": {
+          "type": "element",
+          "hash": "b46dabde9dd6407d95d2dd97de2146e0",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Everything you need to succeed"
+        },
+        "7/declaration/body/3/argument/19/1/1/5": {
+          "type": "element",
+          "hash": "1315e9f97438ea7978def0d49925d50c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Powerful features designed to help teams collaborate better and deliver exceptional results."
+        },
+        "7/declaration/body/3/argument/19/1/3/1/1/3/1": {
+          "type": "element",
+          "hash": "7cd335901adbc74fd164f761a51a7023",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "01"
+        },
+        "7/declaration/body/3/argument/19/1/3/1/1/5": {
+          "type": "element",
+          "hash": "7b77c26b9d48bbe4a884d431acc54adc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "AI-Powered Automation"
+        },
+        "7/declaration/body/3/argument/19/1/3/1/1/7": {
+          "type": "element",
+          "hash": "2fc52c10048344fe594b9e132e889a46",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Automate repetitive tasks and workflows with our intelligent AI assistant that learns from your patterns."
+        },
+        "7/declaration/body/3/argument/19/1/3/3/1/3/1": {
+          "type": "element",
+          "hash": "91642b3be34c26763d06368d374e7307",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "02"
+        },
+        "7/declaration/body/3/argument/19/1/3/3/1/5": {
+          "type": "element",
+          "hash": "7a6b118da95dd23ecff1d0810bc268e8",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Real-time Collaboration"
+        },
+        "7/declaration/body/3/argument/19/1/3/3/1/7": {
+          "type": "element",
+          "hash": "2c867c76bbcecb818c7bab9f0bd5474a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Work together seamlessly with live editing, instant messaging, and shared workspaces for your entire team."
+        },
+        "7/declaration/body/3/argument/19/1/3/5/1/3/1": {
+          "type": "element",
+          "hash": "3a093f14eab5a4827ae0bbc58922e597",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "03"
+        },
+        "7/declaration/body/3/argument/19/1/3/5/1/5": {
+          "type": "element",
+          "hash": "327aa6ab1261880e719e58e5b2b6833a",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enterprise Security"
+        },
+        "7/declaration/body/3/argument/19/1/3/5/1/7": {
+          "type": "element",
+          "hash": "23e079028bd3af51dd2a1d77104f6ae4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Bank-level security with end-to-end encryption, SSO integration, and compliance with industry standards."
+        },
+        "7/declaration/body/3/argument/19/1/3/7/1/3/1": {
+          "type": "element",
+          "hash": "cb527112e959ad59f7e9eecc7cef5c71",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "04"
+        },
+        "7/declaration/body/3/argument/19/1/3/7/1/5": {
+          "type": "element",
+          "hash": "966f8f30c70d90026d5e127b276f8886",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Advanced Analytics"
+        },
+        "7/declaration/body/3/argument/19/1/3/7/1/7": {
+          "type": "element",
+          "hash": "086490a6d495be1ae21a9dfe81f707b5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get deep insights into your team's performance with customizable dashboards and detailed reporting."
+        },
+        "7/declaration/body/3/argument/23/1/1/1": {
+          "type": "element",
+          "hash": "cb8f491c46ab9a541f5c7bf0f78d153b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "See How Our Users Landed Their Dream Jobs"
+        },
+        "7/declaration/body/3/argument/23/1/1/3": {
+          "type": "element",
+          "hash": "012909f9b0bb83622d28591108dc7914",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "See how our users turned interview prep into dream job offers"
+        },
+        "7/declaration/body/3/argument/23/1/3/1/1/1/3": {
+          "type": "element",
+          "hash": "a66c830fe4000331fea997950bbf391d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "\"The portfolio presentation practice and design process questions were exactly what I faced in real interviews. Went from junior to senior designer with a $45K salary jump. The confidence boost was priceless.\""
+        },
+        "7/declaration/body/3/argument/23/1/3/1/1/3/1/1": {
+          "type": "element",
+          "hash": "612ff003c2f0f674795ca18cb20491e3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "JM"
+        },
+        "7/declaration/body/3/argument/23/1/3/1/1/3/1/3/1": {
+          "type": "element",
+          "hash": "732fc7761a9f4ef8607af9321a9c4383",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "— Jennifer M"
+        },
+        "7/declaration/body/3/argument/23/1/3/1/1/3/1/3/3": {
+          "type": "element",
+          "hash": "a9e754cb7558b6c50f63a021220fd292",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Product Designer"
+        },
+        "7/declaration/body/3/argument/23/1/3/1/3/1/3": {
+          "type": "element",
+          "hash": "de4ac518f171cd0e7921f72aa4cd065e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "\"Practicing with InterviewPal turned my portfolio presentation from average to amazing. Landed a product design role at Spotify with zero prior experience. The behavioral interview question predictions were spot-on!\""
+        },
+        "7/declaration/body/3/argument/23/1/3/1/3/3/1/1": {
+          "type": "element",
+          "hash": "a441d37d2804440dd7958ac83bfb5811",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "LK"
+        },
+        "7/declaration/body/3/argument/23/1/3/1/3/3/1/3/1": {
+          "type": "element",
+          "hash": "39e5401977879e71171b1e50deae468e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "— Lakshmi K"
+        },
+        "7/declaration/body/3/argument/23/1/3/1/3/3/1/3/3": {
+          "type": "element",
+          "hash": "32ef6b93fd013cef4fe9f74121227188",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Product Designer at Spotify"
+        },
+        "7/declaration/body/3/argument/27/1/1/1": {
+          "type": "element",
+          "hash": "e74d7daa01f0d02953af6d202a6d8e25",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Simple, transparent pricing"
+        },
+        "7/declaration/body/3/argument/27/1/1/3": {
+          "type": "element",
+          "hash": "d52a4cc218619e8a98e0cfed1de781b7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Choose the perfect plan for your team. All plans include a 14-day free trial."
+        },
+        "7/declaration/body/3/argument/27/1/5/1/1": {
+          "type": "element",
+          "hash": "9e687411dbf1248496a4ae5dd5391679",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Weekly"
+        },
+        "7/declaration/body/3/argument/27/1/5/1/3": {
+          "type": "element",
+          "hash": "5d4f1c56f4e9e579ec9967ca68cc64ac",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Annual"
+        },
+        "7/declaration/body/3/argument/27/1/5/1/5": {
+          "type": "element",
+          "hash": "26134690790b577706932ac7394d9713",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Save 80%"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/1/1": {
+          "type": "element",
+          "hash": "0326365539c004f6088656f692602078",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Free"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/1/3": {
+          "type": "element",
+          "hash": "5d9ed18f90a6c3eff087df2ccdb73ff8",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Perfect for testing out our platform and practicing basic interview questions to see if it's the right fit for you."
+        },
+        "7/declaration/body/3/argument/27/1/7/1/1/5/1": {
+          "type": "element",
+          "hash": "c8038ce413d90cb582293b26924bc735",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "$0"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/1/5/3": {
+          "type": "element",
+          "hash": "6cb28ff89203e2eca3fdd69396dd00d6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "/month"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/3/1/1": {
+          "type": "element",
+          "hash": "7e09ebe5d39ac09b147fa88386f48c5c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "What's Included?"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/3/3/1/3": {
+          "type": "element",
+          "hash": "37bd524d5e4ecbdfc573fce0d79efe56",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get 3 credits daily"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/3/3/11/3": {
+          "type": "element",
+          "hash": "4abfa14c58ecae5c3406c3571de13928",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Limited Weekly AI insights"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/3/3/13/3": {
+          "type": "element",
+          "hash": "0adc60840e7a4a039566d60263d78a82",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Limited company bank access"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/3/3/3/3": {
+          "type": "element",
+          "hash": "4ba069982ccc15419f13c96da1ca6720",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Free Job AI access"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/3/3/5/3": {
+          "type": "element",
+          "hash": "e864ad723d8679cf70332b45f7365e92",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Free InterviewGPT access"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/3/3/7/3": {
+          "type": "element",
+          "hash": "1e1d5fdcab489673506ca228fd2cfd79",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Free Resume AI access"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/3/3/9/3": {
+          "type": "element",
+          "hash": "02265a7968a7a118e82e64d7bc0303c3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Free Cover Letter Generator access"
+        },
+        "7/declaration/body/3/argument/27/1/7/1/5/1": {
+          "type": "element",
+          "hash": "c4d64916de9e49ef0ff40eec448cebcd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get a consultation"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/1": {
+          "type": "element",
+          "hash": "702c0be2de2f4a0d696d604694d884b6",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Most popular"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/3/1": {
+          "type": "element",
+          "hash": "682b3c9feab30112b4454cb5bb7974b1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Pro"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/3/3": {
+          "type": "element",
+          "hash": "13d85ec466b07600e2dd3371642c206b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Ideal for active job seekers. Access a wide range of questions and receive detailed feedback on each response to refine your performance."
+        },
+        "7/declaration/body/3/argument/27/1/7/3/3/5/1": {
+          "type": "element",
+          "hash": "d6d61c6e0827eaaae04ba2360eec0299",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "$7.99"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/3/5/3": {
+          "type": "element",
+          "hash": "8ed3ebc0edb02ed5d9008051a03aec88",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "$1.99"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/3/5/5": {
+          "type": "element",
+          "hash": "2e1b44bd7cfd3ce22078494e8d55e860",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "/week"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/5/1/1": {
+          "type": "element",
+          "hash": "7e09ebe5d39ac09b147fa88386f48c5c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "What's Included?"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/5/3/1/3": {
+          "type": "element",
+          "hash": "d59ca37c835454bcc14ad8b6a409b403",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Unlimited credits"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/5/3/11/3": {
+          "type": "element",
+          "hash": "8914b42488b164ac6a3d78ee8e25ebd2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Full Interview GPT access"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/5/3/13/3": {
+          "type": "element",
+          "hash": "d5cf46d989d5f33cf73abe81d090a7cf",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enhanced Weekly AI insights"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/5/3/3/3": {
+          "type": "element",
+          "hash": "7aae92c16d3000a56cbb3661664d2f69",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Access to all questions (20k+)"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/5/3/5/3": {
+          "type": "element",
+          "hash": "1d3ae3e59877fa38044a335d8ea2edef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Full access to company tags"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/5/3/7/3": {
+          "type": "element",
+          "hash": "9ea54d0a00d57be1c20ec3f576c87357",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Full access to company question banks"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/5/3/9/3": {
+          "type": "element",
+          "hash": "816e940576d0eadd17fea0d5615e18cc",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "AI enhanced responses"
+        },
+        "7/declaration/body/3/argument/27/1/7/3/7/1": {
+          "type": "element",
+          "hash": "c4d64916de9e49ef0ff40eec448cebcd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get a consultation"
+        },
+        "7/declaration/body/3/argument/27/1/7/5/1/1": {
+          "type": "element",
+          "hash": "4d406f4ff899f0da4e3711763599a9aa",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Custom Plan"
+        },
+        "7/declaration/body/3/argument/27/1/7/5/1/3": {
+          "type": "element",
+          "hash": "48b409dc6e0bbee9e103975d3fce55ab",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Perfect for groups & teachers."
+        },
+        "7/declaration/body/3/argument/27/1/7/5/1/5/1": {
+          "type": "element",
+          "hash": "dd943e9ac09c913d0060df2ccf0c64cb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Request a quote"
+        },
+        "7/declaration/body/3/argument/27/1/7/5/3/1/1": {
+          "type": "element",
+          "hash": "7e09ebe5d39ac09b147fa88386f48c5c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "What's Included?"
+        },
+        "7/declaration/body/3/argument/27/1/7/5/3/3/1/3": {
+          "type": "element",
+          "hash": "061b46823df6eb4c597ccb47e3ce1382",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Customized interview modules"
+        },
+        "7/declaration/body/3/argument/27/1/7/5/3/3/3/3": {
+          "type": "element",
+          "hash": "f409723e817067905a9d16a8428dd9c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Customized performance tracker"
+        },
+        "7/declaration/body/3/argument/27/1/7/5/3/3/5/3": {
+          "type": "element",
+          "hash": "1a8b775d9c1839d33756901ccef0a850",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Customized response feedback"
+        },
+        "7/declaration/body/3/argument/27/1/7/5/3/3/7/3": {
+          "type": "element",
+          "hash": "6db26131e85255f85ff9b23b040b8348",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Customized AI weekly insights"
+        },
+        "7/declaration/body/3/argument/27/1/7/5/5/1": {
+          "type": "element",
+          "hash": "c4d64916de9e49ef0ff40eec448cebcd",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get a consultation"
+        },
+        "7/declaration/body/3/argument/31/3/1/1": {
+          "type": "element",
+          "hash": "791fd82b46191f921136d67595ab9ea5",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Real Questions From Top Hiring Companies"
+        },
+        "7/declaration/body/3/argument/31/3/1/3": {
+          "type": "element",
+          "hash": "115adf4d1a092eb6930896024898bfd1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Practice real questions top companies ask. Walk in confident, walk out prepared."
+        },
+        "7/declaration/body/3/argument/31/3/1/5/1": {
+          "type": "element",
+          "hash": "4b0764f7edf446f0437d70d9cd2fac1d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get a Demo"
+        },
+        "7/declaration/body/3/argument/35/1/1/1/1/3": {
+          "type": "element",
+          "hash": "3575aee36cff4a488047486ec6486c22",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "InterviewPal"
+        },
+        "7/declaration/body/3/argument/35/1/1/1/3": {
+          "type": "element",
+          "hash": "9eb2f0ce2af333b5873792de23a78b3e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Your interview success partner, offering personalized tools to give you the edge."
+        },
+        "7/declaration/body/3/argument/35/1/1/3/1": {
+          "type": "element",
+          "hash": "01215c12fb1cdb93bd0c84c1382bef56",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Account"
+        },
+        "7/declaration/body/3/argument/35/1/1/3/3/1/1": {
+          "type": "element",
+          "hash": "1d2f196cf5722f6a5a89793cd92fb500",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Dashboard"
+        },
+        "7/declaration/body/3/argument/35/1/1/3/3/3/1": {
+          "type": "element",
+          "hash": "3e7780e3cf098d323f18e31a5d98d766",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Badges"
+        },
+        "7/declaration/body/3/argument/35/1/1/3/3/5/1": {
+          "type": "element",
+          "hash": "e4778cb574dfc922b56a2d12dc3d3bf3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Subscription"
+        },
+        "7/declaration/body/3/argument/35/1/1/3/3/7/1": {
+          "type": "element",
+          "hash": "e84d42b0f17d6fe7403d28f571abc521",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Settings"
+        },
+        "7/declaration/body/3/argument/35/1/1/5/1": {
+          "type": "element",
+          "hash": "b6a35e9bcd15a8406576db7774a65eed",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Interview AI Tools"
+        },
+        "7/declaration/body/3/argument/35/1/1/5/3/1/1": {
+          "type": "element",
+          "hash": "16978de1d6669db6e93aca47d1369a03",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Interview GPT"
+        },
+        "7/declaration/body/3/argument/35/1/1/5/3/3/1": {
+          "type": "element",
+          "hash": "a49d2000bf1a68bef9878b9046b231c7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Resume AI"
+        },
+        "7/declaration/body/3/argument/35/1/1/5/3/5/1": {
+          "type": "element",
+          "hash": "7df8843bd03c8808260c0bd1db03ba92",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Job AI"
+        },
+        "7/declaration/body/3/argument/35/1/1/5/3/7/1": {
+          "type": "element",
+          "hash": "267362df1a6b79e65728e1c01f6be68c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Ask Away AI"
+        },
+        "7/declaration/body/3/argument/35/1/1/7/1": {
+          "type": "element",
+          "hash": "2cc6263d0c5fff4deea78de380310ddf",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Job Search Tools"
+        },
+        "7/declaration/body/3/argument/35/1/1/7/3/1/1": {
+          "type": "element",
+          "hash": "be1ed0248ad7ee06986a5402969fb331",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Resume Reviews"
+        },
+        "7/declaration/body/3/argument/35/1/1/7/3/3/1": {
+          "type": "element",
+          "hash": "72240e15682e0bb9ff3503e6adba7cd4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Cover Letter Generator"
+        },
+        "7/declaration/body/3/argument/35/1/1/7/3/5/1": {
+          "type": "element",
+          "hash": "4479d655062302a129c1765c33027519",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Cover Letter Templates"
+        },
+        "7/declaration/body/3/argument/35/1/1/7/3/7/1": {
+          "type": "element",
+          "hash": "776a41a9696ed2545ffd5bf49f0c8c73",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Request a feature"
+        },
+        "7/declaration/body/3/argument/35/1/3/1": {
+          "type": "element",
+          "hash": "c5db678ba371727d06e6aa58302e3d93",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "© <function:Date.getFullYear/> InterviewPal. All rights reserved."
+        }
+      }
+    },
+    "components/ui/LocaleSwitcher.tsx": {
+      "scopes": {
+        "2/declaration/0/init/body/5/argument/3": {
+          "type": "element",
+          "hash": "db6bcf6915b7917d11546af1e3fddf09",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "▼"
+        }
+      }
+    }
+  }
+}

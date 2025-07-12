@@ -27,7 +27,7 @@
   --glass-border: rgba(255, 255, 255, 0.1);
   --glass-bg-light: rgba(255, 255, 255, 0.1);
   --glass-border-light: rgba(255, 255, 255, 0.2);
-  --glass-bg-strong: rgba(255, 255, 255, 0.10);
+  --glass-bg-strong: rgba(255, 255, 255, 0.1);
   --glass-border-strong: rgba(255, 255, 255, 0.25);
   /* Glow Effects */
   --glow-sky: 0 0 30px rgba(45, 199, 255, 0.3);
@@ -374,6 +374,294 @@
   transform: translateY(-2px);
 }
 
+/* Enhanced Select Element Styling */
+.select-container {
+  position: relative;
+  display: inline-block;
+}
+
+select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: var(--glass-bg-light);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--glass-border-light);
+  border-radius: 1rem;
+  color: var(--text-primary);
+  font-size: 0.875rem;
+  font-weight: 500;
+  padding: 0.75rem 1.5rem 0.75rem 1rem;
+  min-width: 80px;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+select:hover {
+  background: var(--glass-bg-strong);
+  border-color: var(--sky-light);
+  box-shadow: var(--glow-sky);
+  transform: translateY(-1px);
+}
+
+select:focus {
+  outline: none;
+  border-color: var(--sky-medium);
+  box-shadow: 0 0 0 3px rgba(45, 199, 255, 0.1), var(--glow-sky);
+  background: var(--glass-bg-strong);
+}
+
+select:active {
+  transform: translateY(0);
+}
+
+/* Custom Select Arrow */
+.select-container::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 0.75rem;
+  transform: translateY(-50%);
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 5px solid var(--text-secondary);
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
+
+.select-container:hover::after {
+  border-top-color: var(--sky-light);
+}
+
+select:focus+.select-container::after,
+.select-container:focus-within::after {
+  border-top-color: var(--sky-medium);
+  transform: translateY(-50%) rotate(180deg);
+}
+
+/* Enhanced Option Styling */
+select option {
+  background: var(--dark-secondary);
+  color: var(--text-primary);
+  padding: 0.75rem 1rem;
+  font-weight: 500;
+  border: none;
+  transition: all 0.2s ease;
+}
+
+select option:hover {
+  background: var(--dark-tertiary);
+  color: var(--sky-light);
+}
+
+select option:checked {
+  background: linear-gradient(135deg, var(--sky-medium), var(--sky-dark));
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+select option:disabled {
+  color: var(--text-muted);
+  background: var(--dark-primary);
+  cursor: not-allowed;
+}
+
+/* Glassmorphism Select Variant */
+.select-glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(25px);
+  -webkit-backdrop-filter: blur(25px);
+  border: 1px solid var(--glass-border);
+  border-radius: 1.5rem;
+  color: var(--text-primary);
+  font-size: 0.875rem;
+  font-weight: 500;
+  padding: 0.875rem 3rem 0.875rem 1.25rem;
+  min-width: 80px;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.select-glass:hover {
+  background: var(--glass-bg-strong);
+  border-color: var(--sky-light);
+  box-shadow: var(--glow-sky), 0 12px 40px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+.select-glass:focus {
+  outline: none;
+  border-color: var(--sky-medium);
+  box-shadow: 0 0 0 3px rgba(45, 199, 255, 0.15), var(--glow-sky-strong);
+  background: var(--glass-bg-strong);
+}
+
+/* Enhanced Select for Dark Theme */
+.select-dark {
+  background: rgba(26, 31, 46, 0.8);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 1rem;
+  color: var(--text-primary);
+  font-size: 0.875rem;
+  font-weight: 500;
+  padding: 0.75rem 2.5rem 0.75rem 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+}
+
+.select-dark:hover {
+  background: rgba(26, 31, 46, 0.9);
+  border-color: var(--sky-light);
+  box-shadow: var(--glow-sky);
+}
+
+.select-dark:focus {
+  outline: none;
+  border-color: var(--sky-medium);
+  box-shadow: 0 0 0 3px rgba(45, 199, 255, 0.1), var(--glow-sky);
+}
+
+/* Responsive Select Styling */
+@media (max-width: 768px) {
+  select {
+    font-size: 0.8rem;
+    padding: 0.625rem 2rem 0.625rem 0.875rem;
+    min-width: 100px;
+  }
+
+  .select-glass {
+    font-size: 0.8rem;
+    padding: 0.75rem 2.5rem 0.75rem 1rem;
+    min-width: 120px;
+  }
+
+  .select-container::after {
+    right: 0.625rem;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 4px;
+  }
+}
+
+/* Loading State for Select */
+.select-loading {
+  position: relative;
+  pointer-events: none;
+  opacity: 0.7;
+}
+
+.select-loading::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 2rem;
+  transform: translateY(-50%);
+  width: 12px;
+  height: 12px;
+  border: 2px solid var(--sky-light);
+  border-top: 2px solid transparent;
+  border-radius: 50%;
+  animation: rotate 1s linear infinite;
+}
+
+/* Multi-select Enhancement */
+select[multiple] {
+  padding: 0.5rem;
+  min-height: 120px;
+  background: var(--glass-bg-light);
+  border-radius: 1rem;
+}
+
+select[multiple] option {
+  padding: 0.5rem 0.75rem;
+  margin: 0.125rem;
+  border-radius: 0.5rem;
+  background: transparent;
+  transition: all 0.2s ease;
+}
+
+select[multiple] option:hover {
+  background: var(--glass-bg-strong);
+  color: var(--sky-light);
+}
+
+select[multiple] option:checked {
+  background: linear-gradient(135deg, var(--sky-medium), var(--sky-dark));
+  color: var(--text-primary);
+}
+
+/* Custom Dropdown Arrow Animation */
+@keyframes arrow-bounce {
+
+  0%,
+  100% {
+    transform: translateY(-50%) translateX(0);
+  }
+
+  50% {
+    transform: translateY(-50%) translateX(2px);
+  }
+}
+
+.select-container:hover::after {
+  animation: arrow-bounce 0.6s ease-in-out;
+}
+
+/* Focus Ring for Accessibility */
+.select-focus-ring:focus {
+  outline: 2px solid var(--sky-medium);
+  outline-offset: 2px;
+  border-radius: 1rem;
+}
+
+/* High Contrast Mode Support */
+@media (prefers-contrast: high) {
+  select {
+    border-width: 2px;
+    border-color: var(--text-primary);
+  }
+
+  select:focus {
+    border-color: var(--sky-light);
+    box-shadow: 0 0 0 3px var(--sky-medium);
+  }
+
+  select option {
+    background: var(--dark-primary);
+    color: var(--text-primary);
+  }
+
+  select option:checked {
+    background: var(--sky-medium);
+    color: var(--text-primary);
+  }
+}
+
+/* Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+  select {
+    transition: none;
+  }
+
+  .select-container::after {
+    transition: none;
+    animation: none;
+  }
+
+  .select-loading::before {
+    animation: none;
+  }
+}
+
 /* Parallax Container */
 .parallax-container {
   position: relative;
@@ -566,4 +854,9 @@ html {
   opacity: 1;
   transform: translateY(0);
   transition: all 0.6s ease-out;
+}
+
+option {
+  color: var(--dark-primary);
+  font-weight: 500;
 }

@@ -1,9 +1,21 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
-import path from 'path'
+import tailwindcss from '@tailwindcss/vite';
+import react from '@vitejs/plugin-react';
+import lingoCompiler from "lingo.dev/compiler";
+import path from 'path';
+import { defineConfig } from 'vite';
 
-export default defineConfig({
+export default lingoCompiler.vite({
+  sourceRoot: "src",
+  targetLocales: ["es", "fr", "de"],
+  models: "lingo.dev", // Option 1: Lingo.dev Engine
+  // models: {
+  //   "*:*": "groq:mistral-saba-24b", // Option 2: GROQ
+  //   "*:*": "google:gemini-2.0-flash", // Option 2: Google AI
+  //   "*:*": "openrouter:mistralai/mistral-small-24b-instruct-2501", // Option 2: OpenRouter
+  //   "*:*": "ollama:mistral-small3.1", // Option 2: Ollama
+  //   "*:*": "mistral:mistral-small-latest", // Mistral
+  // },
+})(defineConfig({
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
@@ -13,4 +25,4 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src")
     }
   }
-})
+}));

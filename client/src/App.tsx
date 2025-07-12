@@ -3,6 +3,7 @@
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
+import { LocaleSwitcher } from "lingo.dev/react-client";
 import {
   ArrowRight,
   BarChart3,
@@ -109,13 +110,12 @@ export default function LandingPage() {
             </nav>
 
             <div className={`flex items-center space-x-4 ${isLoaded ? "animate-fade-in-right delay-300" : "loading"}`}>
-              <Button
-                variant="ghost"
-                className="hidden md:inline-flex text-secondary hover:text-sky-light hover:bg-sky-light/10 rounded-xl focus-ring"
-              >
-                Sign In
-              </Button>
-              <Button className="btn-primary rounded-xl shadow-lg hover-lift focus-ring">Start Free Trial</Button>
+              <div className="select-container">
+                <LocaleSwitcher
+                  className="select-glass text-primary border-sky-light/20 hover-glow focus-ring"
+                  locales={["en", "es", "fr", "de"]}
+                />
+              </div>
               <Button variant="ghost" size="icon" className="md:hidden rounded-xl focus-ring hover-glow">
                 <Menu className="h-5 w-5" />
               </Button>

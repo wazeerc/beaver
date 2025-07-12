@@ -3,7 +3,6 @@
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
-import { LocaleSwitcher } from "lingo.dev/react-client";
 import {
   ArrowRight,
   BarChart3,
@@ -20,13 +19,32 @@ import {
   Zap,
 } from "lucide-react";
 import { useEffect, useState } from "react";
+import { Select, SelectContent, SelectGroup, SelectItem, SelectTrigger, SelectValue } from "./components/ui/select";
 import "./index.css";
 
 export default function LandingPage() {
   const [scrollY, setScrollY] = useState(0);
   const [isLoaded, setIsLoaded] = useState(false);
 
+  const availableLocales = [
+    { value: "en", label: "English" },
+    { value: "es", label: "Español" },
+    { value: "fr", label: "Français" },
+    { value: "de", label: "Deutsch" },
+  ]
+  const [currentLocale, setCurrentLocale] = useState<string>("en");
+  function switchLocale(locale: string) {
+    setCurrentLocale(locale);
+    // Set new cookie
+    document.cookie = `lingo-locale=${locale}; path=/; max-age=31536000;`;
+    window.location.reload();
+  }
+
   useEffect(() => {
+    // Get current cookie
+    const lingoCookie = document.cookie?.split("; ").find(row => row.startsWith("lingo-locale="));
+    setCurrentLocale(lingoCookie ? lingoCookie.split("=")[1] : "en");
+
     const handleScroll = () => setScrollY(window.scrollY);
     window.addEventListener("scroll", handleScroll);
 
@@ -111,10 +129,20 @@ export default function LandingPage() {
 
             <div className={`flex items-center space-x-4 ${isLoaded ? "animate-fade-in-right delay-300" : "loading"}`}>
               <div className="select-container">
-                <LocaleSwitcher
-                  className="select-glass text-primary border-sky-light/20 hover-glow focus-ring"
-                  locales={["en", "es", "fr", "de"]}
-                />
+                <Select value={currentLocale} onValueChange={switchLocale}>
+                  <SelectTrigger className="w-[120px]">
+                    <SelectValue placeholder="Select language" />
+                  </SelectTrigger>
+                  <SelectContent className="border-2">
+                    <SelectGroup className="py-2 cursor-pointer hover:bg-accent focus:bg-accent rounded-sm bg-gray-800/80 text-slate-50">
+                      {availableLocales.map((locale) => (
+                        <SelectItem key={locale.value} value={locale.value} className="cursor-pointer">
+                          {locale.label}
+                        </SelectItem>
+                      ))}
+                    </SelectGroup>
+                  </SelectContent>
+                </Select>
               </div>
               <Button variant="ghost" size="icon" className="md:hidden rounded-xl focus-ring hover-glow">
                 <Menu className="h-5 w-5" />
